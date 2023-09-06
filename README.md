@@ -1,2 +1,2 @@
 # ga-physics-engine
-# EVOLVING SOFT ROBOTS PROJECT
+# Evolving Soft Robots
